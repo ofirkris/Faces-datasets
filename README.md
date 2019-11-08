@@ -25,6 +25,7 @@ FFHQ - Flickr Faces HQ Dataset 89.4GB, 70,000 images
 dataset: https://drive.google.com/uc?id=1YTfq-xo-O7y5m8Zq9PB0ErTLWL2M5r97
 
 
+More links: http://www.gwylab.com/download.html
 
 GAN created datasets by dataset provider:Copyright(c) 2018, seeprettyface.com, BUPT_GWY contributes the dataset.
 
