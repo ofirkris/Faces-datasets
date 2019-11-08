@@ -1,7 +1,14 @@
-| Name      | Quantity  | Size     | Description: | Link:
-| :-----    | :---      | :-----   | :----------
-| face alignment    | 230,000   | 4.4159   |  3D facial landmarks 2D and 3D face alignment .    | https://www.adrianbulat.com/face-alignment 
-| allface    | 120,000   | 4.4159   |  allface dataset | https://drive.google.com/uc?id=1PJK3glcckCZtrtHkqDhmCeAD0FBmJBsE
+CASIA-Webface dataset 494,414 images in total
+https://drive.google.com/file/d/1Of_EVz-yHV7QVWQGihYfvtny9Ne8qXVz/view
+
+VGGFace2 dataset 3,300,000 images
+http://www.robots.ox.ac.uk/~vgg/data/vgg_face2/
+
+face alignment 230,000   3D facial landmarks 2D and 3D face alignment
+Dataset: https://www.adrianbulat.com/face-alignment 
+
+allface 
+dataset https://drive.google.com/uc?id=1PJK3glcckCZtrtHkqDhmCeAD0FBmJBsE
 
 Celebhq 2018
 
@@ -13,9 +20,38 @@ Celebhq 2019
 dataset: https://drive.google.com/uc?id=1r0TfaJzf0P21odhTVwCSJgnY5xM8o24y
 
 
-FFHQ - Flickr Faces HQ Dataset
+FFHQ - Flickr Faces HQ Dataset 89.4GB, 70,000 images
 
 dataset: https://drive.google.com/uc?id=1YTfq-xo-O7y5m8Zq9PB0ErTLWL2M5r97
+
+
+
+GAN created datasets by dataset provider:Copyright(c) 2018, seeprettyface.com, BUPT_GWY contributes the dataset.
+
+Age: 
+Child face dataset 10,000 SHEETS | SIZE: 14.62GB https://pan.baidu.com/s/1JfyZYyfGzdO6TgKzOuWa0Q CODE: 75AG
+ADULT FACE DATA SET 10,000 SHEETS | SIZE: 14.84GB  https://pan.baidu.com/s/13vwsj6CayV8ZQsFmKnoOww CODE: JPI9
+ELDERLY FACE DATA SET 10000 SHEETS | SIZE: 15.18GB https://pan.baidu.com/s/18_5M2qxgxfQ18crqTHoJ-g CODE: 5IJL
+
+Style:
+FACE DATA SET WITH GLASSES 50,000 SHEETS | SIZE: 75.65GB https://pan.baidu.com/s/1JXmOyOwqGzKObuAI3NW1FA CODE: I3NQ
+SMILE FACE DATASET 50000 SHEETS | SIZE: 74.84GB https://pan.baidu.com/s/1WBMDNDHpaGIaGQQCWHbpaA CODE: AHU3
+
+Gender:
+MAle face dataset 50000 SHEETS | SIZE: 74.58GB https://pan.baidu.com/s/1K98swYhbsU0unDvldnAhcQ CODE: 1CJ0
+Female face dataset 50000 SHEETS | SIZE: 74.62GB  https://pan.baidu.com/s/18_U4ZVvDfUrHeLso2W1MaQ CODE: JTDB
+Female CHINA NET RED FACE DATASET 10000 SHEETS | SIZE: 12.75GB https://pan.baidu.com/s/1Sn6j9g-8sddIvViGEawAWQ CODE: 3IQT
+
+Ethnic:
+"Yello face dataset1" 50000 SHEETS | SIZE: 71.79GB https://pan.baidu.com/s/1X2RTqKKhG5mXx0d4HzfZLg CODE: A01B
+"Yello face dataset2" 13061 images, size: 16.3GB 1024px - https://pan.baidu.com/s/1RojpVxh0Ju8IcHuxAe_yLA CODE: GMDQ
+"Red face dataset" 105213 images, size: 87.73GB 1024px https://pan.baidu.com/s/1gEk3L7twcvrT-_Q2ZS6QZw CODE: ERW7 
+Raw scraped face dataset, 366,534 images | SIZE: 38.40GB https://pan.baidu.com/s/1l4yakqDzimO6S93fk9Tezg CODE: 51Z3
+Raw model dataset 718,743 images SIZE: 64.68GB https://pan.baidu.com/s/1YF-Ws6ttiuuGa5X0IGutbw CODE: 2N4P
+ASIAN STAR FACE DATA SET 10,000 SHEETS | SIZE: 13.25GB https://pan.baidu.com/s/1g5ASVZcRoYvClxqsQpShXQ CODE: XVAL
+WORLD SUPERMODEL FACE DATA SET 10000 SHEETS | SIZE: 13.69GB https://pan.baidu.com/s/1G5lTsk1TJPZMCHqudQqqYg CODE: 2A5W
+
+
 
 Face Detection Dataset
 
@@ -126,3 +162,4 @@ paper: http://www.cs.joensuu.fi/pages/tkinnu/webpage/pdf/audio_visual_kinship_IC
 Families In the Wild: A Kinship Recognition Benchmark (FIW)
 dataset: https://web.northeastern.edu/smilelab/fiw/
 paper: https://web.northeastern.edu/smilelab/fiw/papers/tpami-final.pdf
+
